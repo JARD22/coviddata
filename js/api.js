@@ -1,3 +1,10 @@
+/*
+Este es un ejemplo de como consumir una api con javascript
+*/ 
+
+
+
+
 let url='https://covid-19-tracking.p.rapidapi.com/v1'
 
 const covidData =async()=>{
